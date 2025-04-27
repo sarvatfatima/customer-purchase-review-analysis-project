@@ -1,6 +1,6 @@
 # Customer Purchase & Review Analysis
 
-This project provides an end-to-end data analysis of customer purchase behavior and product performance using a combination of **Python (Pandas, Matplotlib, Seaborn)** and **SQL (SQLite)**. It includes insights such as top-selling items, payment method trends, review rating distributions, and customer segmentation.
+This project provides an end-to-end data analysis of customer purchase behavior and product performance [dataset](https://www.kaggle.com/datasets/atharvasoundankar/fashion-retail-sales) using a combination of **Python (Pandas, Matplotlib, Seaborn)** and **SQL (SQLite)**. It includes insights such as top-selling items, payment method trends, review rating distributions, and customer segmentation.
 
 ----------
 
